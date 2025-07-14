@@ -29,7 +29,7 @@ Before running this application, make sure you have:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/stripe-client-app.git
+   git clone https://github.com/snishan/stripe-client-app.git
    cd stripe-client-app
    ```
 
